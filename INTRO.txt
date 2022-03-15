@@ -1,0 +1,171 @@
+
+
+
+
+introduction
+
+
+First of all thank you for giving opportunity to introduce myself 
+My name is sanket sanjay shevale I am basically from Pandharpur i belong to nuclear family currently I am staying in pune 
+I did my graduation in B.E FROM zeal college of engineering and research at savitribai phule pune University I have done major 
+project in bacholor of engineering which is design and fabrication of water cleaning machine my strength is I am self motivated hard working and disciplined person  
+My short term goal is to get job from reputed company and long term goal is to achieve a good position where I can build my career and help organization too my hobbies are to  traveling watching movies playing cricket and chess also thats all about me
+
+why shold we hire you?
+Being a fresher, I think I am very flexible and adaptive to learning new things. I am sure I will be able to contribute something capable for the growth of the company. 
+
+
+           PROJECT
+
+  THE NAME OF OUR PROJECT IS DESIGN AND FABRICAION OF WATER CLEANING MACHINE                                               
+  THE PROBLEM STATEMENT OF OUR PROJECT IS
+the aim of our project is To minimize the problem of wastage on RIVER, lake, sea due to the
+plastic, electronic items, thermocol, metal parts etc.
+This causes huge amount of water pollution which effects on aquatic
+animals as well as human life.
+It is also used in small scale industries to remove the solid wastage
+from water, road and sand with minimum cost.
+We can even use this machine for river plants harvesting
+
+  THE AIM OF OUR PROJECT STATEMENT IS
+The main aim of the project is to reduce the man power, time
+consumption for cleaning the river.
+To reduce the pollution in water bodies.
+
+                     FUTURE SCOPE
+     Instead of battery power, the motor can be run using solar power, by
+    fitting solar panels to the setup.
+    During the real time application, the size of the machine will be big so
+   that more amount of waste can be collected and a bigger motor can
+     be used to increase performance and rate of collecting waste.
+   A sensor can be placed in the collector bin. As the collecting bin
+   becomes full, it gives an alert.
+   It can be used to remove the garbage with higher accuracy from the
+   drainage system
+        
+                        CONCLUSION
+On Calculating and Experimenting the result are very
+satisfactory. On the basis of these result we can conclude                                                                                 
+that it is an innovative method of minimizing manual stress
+and thus very much reliably stabilizing the in the river. The
+project carried out by us made an impressing task in the
+environmental purpose and it is very useful for the small
+scale works. Although this system able to collect the garbage
+from the lake with human intervention. The objective of the
+project was successfully achieved.   
+
+
+Base Frame 
+A frame is often a structural system that supports other components of a physically. Bed 
+frame, the part of a bed used to position the mattress and base
+
+Collecting Tray 
+It is used to collect waste garbage from the river.
+
+Conveyor Belt 
+It is carrying medium of a belt conveyor system 
+
+Battery 
+The purpose of the battery in a series circuit is to give the circuit a source of energy. The 
+purpose of a switch in a series circuit is to make it easy to open or close the electrical 
+circuit, turning the flow of electricity on or off. 
+
+4 Shaft 
+Hollow shaft used to transmit the power with the help of belt drive
+
+ Motor 
+A DC motor is any of a class of rotary electrical machines that converts direct current 
+electrical energy into mechanical 
+energy. The most common types rely on the forces produced by magnetic fields. 
+
+ Propeller 
+It is a mechanical device used to develop thrust inside the water for propelling the 
+floating body. 
+
+       C LANGUAGE
+
+What is the use of the function in C?
+C functions are used to avoid the rewriting the same code again and again in our program.
+C functions can be called any number of times from any place of our program.
+When a program is divided into functions, then any part of our program can easily be tracked.
+C functions provide the reusability concept
+
+CALL BY VALUE                                                                          CALL BY FUNCTION
+When a copy of the value is passed to                  When a copy of the value is passed to.
+the function, then the original                                  the function, then the original value is not modified
+ value is not modified.	
+
+  What is recursion in C?
+When a function calls itself, and this process is known as recursion. The function that calls itself is known as a recursive function.
+
+What is an array IN C?
+An Array is a group of similar types of elements. It has a contiguous memory location. It makes the code optimized, easy to traverse 
+and easy to sort. The size and type of arrays cannot be changed after its declaration.
+
+ What is a pointer in C?
+A pointer is a variable that refers to the address of a value.
+ 
+What is a NULL pointer in C?
+A pointer that doesn't refer to any address of value but NULL is known as a NULL pointer. 
+
+What is static memory allocation?
+In case of static memory allocation, memory is allocated at compile time, and memory 
+can't be increased while executing the program. It is used in the array
+int a[10];  
+The above example creates an array of integer type, and the size of an array is fixed, i.e., 10.
+
+What is dynamic memory allocation?
+In case of dynamic memory allocation, memory is allocated at runtime and 
+memory can be increased while executing the program. It is used in the linked list.
+int *p= malloc(sizeof(int)*10);  
+The above example allocates the memory at runtime.
+                      
+                       malloc()
+The malloc() function is used to allocate the memory during the execution of the program.
+                    calloc()
+The calloc() is same as malloc() function, but the difference only is that it initializes the memory with zero value.
+                  realloc()
+The realloc() function is used to reallocate the memory to the new size.
+
+               What is the structure?
+The structure is a user-defined data type that allows storing
+ multiple types of data in a single unit. It occupies the sum of the memory of all members.
+
+
+               c++
+What are class and object in C++?
+A class is a user-defined data type that has data members and member functions.
+Data members are the data variables and member functions are the functions that are used to perform operations on these variables.
+An object is an instance of a class. Since a class is a user-defined data type so an object can also be called a variable of that data type.
+        
+    What is polymorphism in C++?
+Polymorphism in simple means having many forms. Its behavior is different in different
+ situations. And this occurs when we have multiple classes that are related to each other by inheritance.
+For example, think of a base class called a car that has a method called
+car brand(). Derived classes of cars could be Mercedes, BMW, Audi - And they also have their own implementation of a cars
+The two types of polymorphism in c++ are:
+Compile Time Polymorphism
+Runtime Polymorphism
+
+Explain inheritance
+Inheritance is the process of creating new classes, called derived classes, from existing classes. These existing classes are called base classes. 
+The derived classes inherit all the capabilities of the base class but can add new features and refinements of their own.
+
+Encapsulation??
+the idea of bundling data and methods that work on that data within one unit,
+
+What do you mean by abstraction in C++?
+Abstraction is the process of showing the essential details to the user and hiding the details which
+ we don’t want to show to the user or hiding the details which are irrelevant to a particular user
+                     
+ Explain constructor in C++
+The constructor is a member function that is executed automatically whenever an object is created
+
+What are the C++ access specifiers?
+Public: All data members and member functions are accessible outside the class.
+Protected: All data members and member functions are accessible inside the class and to the derived class.
+Private: All data members and member functions are not accessible outside the class
+
+What is a reference in C++?
+A reference is like a pointer. It is another name of an already existing variable. Once a reference name is initialized with a
+ variable, that variable can be accessed by the variable name or reference name both.
